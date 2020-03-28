@@ -41,6 +41,7 @@ function Table() {
                             <td>{user.phone}</td>
                             <td>{user.location.city}</td>
                             <td>{user.dob.age}</td>
+                            <td>{user.dob.age}</td>
                         </tr>
                     )
                 }
