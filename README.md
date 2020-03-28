@@ -1,4 +1,4 @@
-# Employee Directory
+# Users List
 Homework assignment where the goal is make an employee directory using React.js, populating it with random employees from an api, and allowing the user to search/sort the results.
 
 ## Description 
@@ -8,10 +8,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Deployed App
 https://competent-ptolemy-3cbc9e.netlify.com/
-
-## Images
-GIF demonstrating the Employee Directory
-![animation of Employee Directory being used](./README_images/employee_directory.gif)
 
 ## Installation
 #### Available Scripts
