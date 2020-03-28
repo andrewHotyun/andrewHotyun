@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80f60e22-d24a-4fec-9d0a-75741a31792e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TR0UcBPQkxhm39pclsKabs9xEc" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ЗНТУ\Заочное\list-копия\src" />
+      <recent name="D:\ЗНТУ\Заочное\list-копия\src\components" />
+      <recent name="D:\ЗНТУ\Заочное\list-копия\src\components\RandomUserTicket" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ЗНТУ\Заочное\list-копия\public" />
+      <recent name="D:\ЗНТУ\Заочное\list-копия\src\hooks" />
+      <recent name="D:\ЗНТУ\Заочное\list-копия\src" />
+      <recent name="D:\ЗНТУ\Заочное\list-копия\src\components" />
+      <recent name="D:\ЗНТУ\Заочное\list-копия" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="UserList.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/components/UserList/UserList.js" working-dir="$PROJECT_DIR$/src/components/UserList">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.UserList.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80f60e22-d24a-4fec-9d0a-75741a31792e" name="Default Changelist" comment="" />
+      <created>1573407617013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573407617013</updated>
+      <workItem from="1573407619899" duration="45000" />
+      <workItem from="1573407756890" duration="1472000" />
+      <workItem from="1575823532147" duration="1062000" />
+      <workItem from="1577351337690" duration="1400000" />
+      <workItem from="1577353428388" duration="311000" />
+      <workItem from="1577376750721" duration="1242000" />
+      <workItem from="1577530025254" duration="1722000" />
+      <workItem from="1577532121601" duration="1534000" />
+      <workItem from="1577562632661" duration="1942000" />
+      <workItem from="1577564603992" duration="2283000" />
+      <workItem from="1577616316352" duration="1748000" />
+      <workItem from="1577618125708" duration="733000" />
+      <workItem from="1577634836243" duration="16000" />
+      <workItem from="1577895395189" duration="1107000" />
+      <workItem from="1577897184927" duration="1054000" />
+      <workItem from="1578077865565" duration="303000" />
+      <workItem from="1584299811313" duration="1435000" />
+      <workItem from="1584346021405" duration="3274000" />
+      <workItem from="1584376084897" duration="5676000" />
+      <workItem from="1584432317430" duration="2943000" />
+      <workItem from="1584446424742" duration="3438000" />
+      <workItem from="1584609237327" duration="5775000" />
+      <workItem from="1584693903798" duration="1226000" />
+      <workItem from="1584794324264" duration="4317000" />
+      <workItem from="1584867716940" duration="5694000" />
+      <workItem from="1584894682287" duration="1325000" />
+      <workItem from="1584948599446" duration="12912000" />
+      <workItem from="1585038846514" duration="734000" />
+      <workItem from="1585039590624" duration="4102000" />
+      <workItem from="1585061090559" duration="1916000" />
+      <workItem from="1585064005120" duration="3016000" />
+      <workItem from="1585070790184" duration="3391000" />
+      <workItem from="1585130018366" duration="10135000" />
+      <workItem from="1585312541625" duration="12464000" />
+      <workItem from="1585398600911" duration="1210000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
