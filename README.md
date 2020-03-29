@@ -6,9 +6,6 @@ Primary goal of app was to use React for the first time. The app takes in a set 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Deployed App
-https://competent-ptolemy-3cbc9e.netlify.com/
-
 ## Installation
 #### Available Scripts
 
