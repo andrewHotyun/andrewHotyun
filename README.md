@@ -9,10 +9,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Deployed App
 https://competent-ptolemy-3cbc9e.netlify.com/
 
-## Images
-GIF demonstrating the Employee Directory
-![animation of Employee Directory being used](./README_images/employee_directory.gif)
-
 ## Installation
 #### Available Scripts
 
