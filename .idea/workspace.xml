@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80f60e22-d24a-4fec-9d0a-75741a31792e" name="Default Changelist" comment="" />
+    <list default="true" id="80f60e22-d24a-4fec-9d0a-75741a31792e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UserItem/UserItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UserItem/UserItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UserList/UserList.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UserList/UserList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README_images/employee_directory.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Table.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Table.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Table.js" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -20,9 +33,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TR0UcBPQkxhm39pclsKabs9xEc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/install/React.js/list" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -33,17 +47,18 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ЗНТУ\Заочное\list-копия\src\components" />
+      <recent name="D:\ЗНТУ\Заочное\list-копия\src" />
+      <recent name="D:\ЗНТУ\Заочное\list-копия\public" />
+      <recent name="D:\ЗНТУ\Заочное\list-копия\src\hooks" />
+      <recent name="D:\ЗНТУ\Заочное\list-копия" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ЗНТУ\Заочное\list-копия\src\components\UserList" />
       <recent name="D:\ЗНТУ\Заочное\list-копия\src" />
       <recent name="D:\ЗНТУ\Заочное\list-копия\src\components" />
       <recent name="D:\ЗНТУ\Заочное\list-копия\src\components\RandomUserTicket" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\ЗНТУ\Заочное\list-копия\public" />
-      <recent name="D:\ЗНТУ\Заочное\list-копия\src\hooks" />
-      <recent name="D:\ЗНТУ\Заочное\list-копия\src" />
-      <recent name="D:\ЗНТУ\Заочное\list-копия\src\components" />
-      <recent name="D:\ЗНТУ\Заочное\list-копия" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -113,10 +128,33 @@
       <workItem from="1585130018366" duration="10135000" />
       <workItem from="1585312541625" duration="12464000" />
       <workItem from="1585398600911" duration="1210000" />
+      <workItem from="1585464714066" duration="2873000" />
+      <workItem from="1585550072026" duration="16386000" />
+      <workItem from="1585671900630" duration="2416000" />
+      <workItem from="1585677673184" duration="2453000" />
+      <workItem from="1585732862647" duration="771000" />
+      <workItem from="1585734475637" duration="509000" />
+      <workItem from="1585737029351" duration="2612000" />
+      <workItem from="1585755778312" duration="1978000" />
+      <workItem from="1585836457563" duration="7229000" />
+      <workItem from="1585926064205" duration="1629000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

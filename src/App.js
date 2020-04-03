@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
 import './App.css';
 import Navbar from "./components/Navbar"
-import Table from "./components/Table"
+import {UserList} from "./components/UserList/UserList"
 
 import { UserContext } from "./components/UserContext"
 
@@ -13,7 +13,7 @@ function App() {
     <div className="App">
       <UserContext.Provider value={{users, setUsers, displayedUsers, setDisplayedUsers}}>
         <Navbar />
-        <Table />
+        <UserList />
       </UserContext.Provider>
     </div>
   );
